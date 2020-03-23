@@ -1,10 +1,10 @@
-# Date created
+### Date created
 *2020/03/23*
 
-### Analysis of Seattle Airbnb data with **Python**
+# Analysis of Seattle Airbnb data with **Python**
 
 
-### Description
+## Description
 This projects explores Airbnb rental in Seattle using **Python**. The data covers a one year period from 2016–01–04 to 2017–01–02. It answers some interesting questions:
 
 * What is the proportion of listings in each neighbourhood? The distribution of property types?The distribution of room types?
@@ -14,13 +14,13 @@ This projects explores Airbnb rental in Seattle using **Python**. The data cover
 * What is the proportion of such houses  with each of the usual amenities?
 * What is a good price for an entire house rental?
 
-### Files 
+## Files 
 To run, the code requires the following files which are included:
 * listings.csv      : dataset with 3818 observations and  92 variables
 * calendar.csv      : dataset with 1393570 observations  and 4 variables
 
 
-### Software requirements
+## Software requirements
 
 * Python           : 3.7.4.final.0
 * Numpy            : 1.16.5
@@ -32,7 +32,7 @@ To run, the code requires the following files which are included:
 * ipython          : 7.8.0 
 * tk               : 8.6.8      
 
-### Credits
-The data is sourced from [here]( from https://www.kaggle.com/airbnb/seattle/data).
+## Credits
+The data is sourced from [here](https://www.kaggle.com/airbnb/seattle/data).
 
 

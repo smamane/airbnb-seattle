@@ -33,6 +33,6 @@ To run, the code requires the following files which are included:
 * tk               : 8.6.8      
 
 ## Credits
-The data is sourced from [here](https://www.kaggle.com/airbnb/seattle/data).
+The data is sourced from [https://www.kaggle.com/airbnb/seattle/data](https://www.kaggle.com/airbnb/seattle/data).
 
 
